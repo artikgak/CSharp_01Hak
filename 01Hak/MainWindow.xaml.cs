@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using _01Hak.ViewModels;
+using KMACSharp01Hak.ViewModels;
 
-namespace _01Hak
+namespace KMACSharp01Hak
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -1,8 +1,8 @@
 ﻿using System.Windows;
-using _01Hak.Tools;
-using _01Hak.Tools.Managers;
+using KMACSharp01Hak.Tools;
+using KMACSharp01Hak.Tools.Managers;
 
-namespace _01Hak.ViewModels
+namespace KMACSharp01Hak.ViewModels
 {
     internal class MainWindowViewModel : BaseViewModel, ILoaderOwner
     {

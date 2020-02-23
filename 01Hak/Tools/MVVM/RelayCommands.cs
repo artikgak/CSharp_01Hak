@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace _01Hak.Tools.MVVM
+namespace KMACSharp01Hak.Tools.MVVM
 {
     public class RelayCommand<T> : ICommand
     {

@@ -3,11 +3,11 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
-using _01Hak.Tools;
-using _01Hak.Tools.Managers;
-using _01Hak.Tools.MVVM;
+using KMACSharp01Hak.Tools;
+using KMACSharp01Hak.Tools.Managers;
+using KMACSharp01Hak.Tools.MVVM;
 
-namespace _01Hak.ViewModels.DatePicker
+namespace KMACSharp01Hak.ViewModels.DatePicker
 {
     internal class DateViewModel : BaseViewModel
     {

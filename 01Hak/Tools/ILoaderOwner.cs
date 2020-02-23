@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows;
 
-namespace _01Hak.Tools
+namespace KMACSharp01Hak.Tools
 {
     internal interface ILoaderOwner : INotifyPropertyChanged
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _01Hak.Models
+namespace KMACSharp01Hak.Models
 {
     internal class User
 

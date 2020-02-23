@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace _01Hak.Tools.Managers
+namespace KMACSharp01Hak.Tools.Managers
 {
     internal class LoaderManager
     {
